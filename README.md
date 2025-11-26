@@ -87,5 +87,3 @@ This project follows the common MERN-stack architecture (MongoDB + Express + Rea
 - Improve UI/UX (animations, responsiveness, accessibility)  
 
 
-## 📧 Contact  
-For any questions or feedback regarding this project, feel free to contact me via GitHub or add your email / preferred contact method here.  
